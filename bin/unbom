@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+LC_ALL=C sed -e $'1s/^\xef\xbb\xbf//'
